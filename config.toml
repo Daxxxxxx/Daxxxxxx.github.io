@@ -1,80 +1,75 @@
-baseURL = "https://goofish-shop.github.io/hugo-huey"
+baseURL = "https://Daxxxxxx.github.io"
 languageCode = "en-us"
-title = "Put a site title here"
-theme = "huey"
-canonifyurls = true
+theme = "adritian-free-hugo-theme"
 
-[params]
-  # General site metadata, used in header and other places
-  author = "Author's name goes here"
-  dateFormat = "January 2, 2006"
-  description = "This is a description of your site. This is also used in your site header metadata."
-  keywords = ""
-  email = "adam@adamwhitlock.com"
+# Plugins
+[params.plugins]
 
-  # Use your Font Awesome token here. Example token is fake, so please get your own.
-  fontawesomeToken = "018de52a07"
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
 
-  # Use content from _index.md on homepage
-  # useIndexContent = true # default is false
-
-  # Navigation, use Bulma options here
-  # navbarStyle = "is-transparent" # Default is "is-transparent"
-  # navbarTitleStyle = "has-text-black" # Default is "has-text-black"
-
-  # # Override Bulma schemes with values
-  # schemeMain = "" # Change background color, default is white
-  # link = "#000" # Bulma default is blue, though theme is black
-  # linkHover = "#888" # Bulma default is grey-darker, though theme is #888
-  # footerBackgroundColor = "false" # Bulma default is #fafafa. You can use "false" or #hex
-  # navbarItemHoverColor = "#444" # Bulma default is blue, though theme is #444
-  # navbarItemColor = "#888" # Bulma default is grey-dark, though theme is #888
-
-  # Set static directory locations and favicon
-  favicon = "favicon.ico"
-  staticDir = ['static']
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
 
 
+# navigation
 [menu]
 
-# Top Navigation
-[[menu.nav]]
-  identifier = 'home'
-  name = 'Home'
-  title = 'Home'
-  url = '/'
-  weight = 10
+  [[menu.header]]
+  name = "About"
+  URL = "#about"
+  weight = 2
 
-[[menu.nav]]
-  identifier = 'archive'
-  name = 'Archive'
-  title = "Archive"
-  url = '/archive/'
-  weight = 20
+  [[menu.header]]
+  name = "Portfolio"
+  URL = "#portfolio"
+  weight = 3
 
-# Contacts
+  [[menu.header]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
 
-[[ menu.social]]
-  identifier = 'linkedin'
-  name = 'LinkedIn'
-  pre = "<i class='fab fa-linkedin fa-lg'></i>"
-  url = "https://linkedin.com/in/yourlinkedinprofile"
-  weight = 10
 
-[[ menu.social]]
-  identifier = 'github'
-  name = 'Github'
-  pre = "<i class='fab fa-github fa-lg'></i>"
-  url = "https://github.com/yourgithubname"
-  weight = 20
+  [[menu.footer]]
+  name = "About"
+  URL = "#about"
+  weight = 2
 
-[[ menu.social]]
-  identifier = 'twitter'
-  name = 'Twitter'
-  pre = "<i class='fab fa-twitter fa-lg'></i>"
-  url = "https://twitter.com/yourtwittername"
-  weight = 30
+  [[menu.footer]]
+  name = "Portfolio"
+  URL = "#portfolio"
+  weight = 3
 
-[outputs]
-  home = ['HTML', 'RSS']
-  pages = ['HTML']
+  [[menu.footer]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
+
+
+[params]
+
+  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+
+  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+  [params.logo]
+    text1 = "Andreas"
+    text2 = "Ellure"
+
+  [params.footer]
+      copyright = "© Raditian. All rights reserved."
+      [params.footer.radity_logo]
+        x = "img/general/design-and-code-radity.png"
+        _2x = "img/general/design-and-code-radity@2x.png"
+        alt = "Design & Code - Radity"
