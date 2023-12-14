@@ -119,7 +119,7 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Projects & Works"
   enable: true
 
   clients:
