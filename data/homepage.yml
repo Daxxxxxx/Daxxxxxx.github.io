@@ -7,7 +7,7 @@ showcase:
   enable: true
   title: "Hello, I’m Francis Song."
   subtitle: "Online Education Data Scientist"
-  description: "I work at  in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "Former Senior Data Scientist in education technology, now an entrepreneur dedicated to personalized education solutions, committed to empowering everyone in embracing the data dividend era. Also, a Data Science influencer on Little Red Book. <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/p3.jpg"
@@ -90,7 +90,7 @@ education:
 experience:
   enable: true
   title: "Professional Experience"
-  description: "Over 3+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: "Over 3+ years of experience working at k12 online education company. I use data analytics and machine learning models to help businesses and improve student learning experiences."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
