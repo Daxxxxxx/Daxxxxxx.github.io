@@ -78,19 +78,19 @@ education:
   enable: true
   title: "Education"
   items:
+    - university: "Australian Natioanl University"
+      year: "2018-2020"
+      degree: "M.S in Statistics"
+
     - university: "University of Illinois Urban Champaign"
       year: "2013-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
-
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+      degree: "B.S in Actuarial Science"
 
 # experience
 experience:
   enable: true
-  title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  title: "Professional Experience"
+  description: "Over 3+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -101,17 +101,21 @@ experience:
     URL: "#"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: "Data Scientist"
+      company: "Yuanfudao"
+      duration: "Feb 2021 - June 2023"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
+    - title: "Data Scientist"
+      company: "Pingan Health Insurance"
+      duration: "Aug 2020 - Jan 2021"
 
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
+    - title: "Actuarial Intern"
+      company: "Rice Warner"
+      duration: "Dec 2019 - Feb 2020"
+
+    - title: "Actuarial Intern"
+      company: "AIG Analytical Center"
+      duration: "Nov 2018 - Feb 2019"
 
 # Client & Work
 client_and_work:
