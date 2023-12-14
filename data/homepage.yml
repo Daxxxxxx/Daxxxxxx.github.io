@@ -154,8 +154,8 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "End-to-End 'Pentagon' User Profiling System"
+      description: "Enhance user experience through refined operations, thereby increasing repurchase rates to stop huge losss during pandamic period coupled with large investments on advertising campaigns in China."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -165,8 +165,8 @@ client_and_work:
         _2x: "img/works/radity-finance@2x.jpg"
       is_even: true
 
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+    - title: "User Purchase Probability prediction model"
+      description: "Enable tutors to identify high-potential users for conversion, enhancing communication effectiveness and formulating strategies to maximize conversion opportunities."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -176,8 +176,8 @@ client_and_work:
         _2x: "img/works/swissfintech@2x.jpg"
       is_even: false
 
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    - title: "Target Setting on Online Tutors Conversion Rate"
+      description: "To standardize target setting across varied management levels in online education by forecasting conversion rates, enabling managers to better understand conversion cycles and identify tutors with below-target performance."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
