@@ -7,7 +7,7 @@ showcase:
   enable: true
   title: "Hello, I’m Francis Song."
   subtitle: "Online Education Data Scientist"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "I work at  in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
