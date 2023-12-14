@@ -57,14 +57,13 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    I am a passionate data scientist currently contributing to the field at an education technology company. 
+    My journey extends beyond the corporate realm as I embark on a new venture focused on data science coaching. 
+    My mission is to empower individuals to embrace the data era, equipping them with the skills to apply data analysis in diverse domains.
     </p>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+    As a knowledge influencer on Little Red Book, I regularly share insights through engaging short videos, 
+    aiming to inspire a love for data analysis among a broader audience.
     </p>'
   button:
     icon: "icon-smile-fill"
