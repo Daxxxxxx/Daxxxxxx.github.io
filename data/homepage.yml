@@ -158,7 +158,7 @@ client_and_work:
       description: "Enhance user experience through refined operations, thereby increasing repurchase rates to stop huge losss during pandamic period coupled with large investments on advertising campaigns in China."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "View More"
         URL: "#"
       image:
         x: "img/works/radity-finance.jpg"
@@ -169,7 +169,7 @@ client_and_work:
       description: "Enable tutors to identify high-potential users for conversion, enhancing communication effectiveness and formulating strategies to maximize conversion opportunities."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "View More"
         URL: "#"
       image:
         x: "img/works/swissfintech.jpg"
@@ -180,7 +180,7 @@ client_and_work:
       description: "To standardize target setting across varied management levels in online education by forecasting conversion rates, enabling managers to better understand conversion cycles and identify tutors with below-target performance."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "View More"
         URL: "#"
       image:
         x: "img/works/robo-advisor.jpg"
@@ -192,15 +192,15 @@ testimonial:
   enable: true
   title: "Testimonials"
   items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+    - name: "Shichao Han"
+      position: "Tencent Wechat, Research Data Scientist"
+      content: "Shiyu's career ambition goes well beyond being a data scientist working in the tech industry. He has demonstrated a great interest in combining data science with artificial intelligence and smart decision-making, thus seeking continuous learning and improvement. Shiyu has shown his capability to think critically about data, apply advanced analytical techniques, and communicate findings effectively. These skills will make him an excellent candidate to pursue further education in data science and beyond."
       image:
         x: "img/testimonials/daniel-jordan.jpg"
         _2x: "img/testimonials/daniel-jordan@2x.jpg"
 
-    - name: "Jonathan Peters"
-      position: "Textic, CEO"
+    - name: "Rachael Rong"
+      position: "Amazon, Senior Data scientist"
       content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
       image:
         x: "img/testimonials/jonathan-peters.jpg"
