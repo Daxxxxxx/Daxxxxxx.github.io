@@ -165,8 +165,8 @@ client_and_work:
         _2x: "img/works/radity-finance@2x.jpg"
       is_even: true
 
-    - title: "User Purchase Probability prediction model"
-      description: "Enable tutors to identify high-potential users for conversion, enhancing communication effectiveness and formulating strategies to maximize conversion opportunities."
+    - title: "Causal Effect of Marketing Live Broadcast'Parent Classroom' on Purchase Rate"
+      description: "Perform propensity score matching to isolate the impact of marketing live streams on conversion rates, revealing a 1% average treatment effect and securing its role as a pivotal conversion factor for business."
       button:
         icon: "icon-arrow-right"
         btnText: "View More"
