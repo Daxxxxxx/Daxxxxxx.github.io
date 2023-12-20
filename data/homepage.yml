@@ -23,35 +23,12 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/Francis/"
+      URL: "https://www.linkedin.com/in/shiyu-song-aa7609a6/"
 
     - icon: "github"
       URL: "https://github.com/Daxxxxxx"
 
-    - icon: "twitter"
-      URL: "https://twitter.com/Daxxxxxx"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com/Daxxxxxx"
-
-    - icon: "behance"
-      URL: "https://www.behance.net/Daxxxxxx-digital"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/Daxxxxxx"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/Daxxxxxx/"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/Daxxxxxx/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
-
+   
 # about
 about:
   enable: true
