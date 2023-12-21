@@ -153,7 +153,7 @@ testimonial:
       content: "I am very impressed by Shiyu’s motivation for life-long learning, as he is ambitious to change the world with his expertise and skills. For eight years, I saw Shiyu grow from a student in actuarial science to an ambitious data scientist in a leading educational tech company. I witnessed every single one of his milestones, and with his passion for data science and dedication to achieving his goal, Shiyu can accomplish anything he wants in life."
      
 # contact
-  contact:
+contact:
   enable: true 
   title: "Contact"
   form:
