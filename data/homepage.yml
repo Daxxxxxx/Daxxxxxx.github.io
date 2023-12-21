@@ -109,13 +109,13 @@ client_and_work:
       is_even: true
       button:
         btnText: "code demo"
-        URL: "https://daxxxxxx.github.io/code/"
+        URL: "https://daxxxxxx.github.io/code/README.md"
     
     - title: "Causal Effect of Marketing Live Broadcast'Parent Classroom' on Purchase Rate"
       description: "Perform propensity score matching to isolate the impact of marketing live streams on conversion rates, revealing a 1% average treatment effect and securing its role as a pivotal conversion factor for business."
       button:
         btnText: "code demo"
-        URL: "https://daxxxxxx.github.io/code/"
+        URL: "https://daxxxxxx.github.io/code/demo.md"
       image:
         x: "img/works/swissfintech.jpg"
         _2x: "img/works/swissfintech@2x.jpg"
