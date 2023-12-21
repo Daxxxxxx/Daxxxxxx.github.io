@@ -169,13 +169,10 @@ testimonial:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    number: "+86 (185) 6273 8150"
   email:
     title: "Email"
     email: '<a href="mailto:rain.song.1995@hotmail.com">rain.song.1995@hotmail.com</a>'
-  address:
-    title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
