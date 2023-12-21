@@ -105,7 +105,7 @@ client_and_work:
       description: "Enhance user experience through refined operations, thereby increasing repurchase rates to stop huge losss during pandamic period coupled with large investments on advertising campaigns in China."
       image:
         x: "img/works/五边形.png"
-        #_2x: "img/works/radity-finance@2x.jpg"
+        _2x: "img/works/五边形.png"
       is_even: true
       button:
         btnText: "code demo"
@@ -118,7 +118,7 @@ client_and_work:
         URL: "https://daxxxxxx.github.io/code/demo.md"
       image:
         x: "img/works/psm.png"
-        #_2x: "img/works/swissfintech@2x.jpg"
+        _2x: "img/works/psm.png"
       is_even: false
 
     - title: "Target Setting on Online Tutors Conversion Rate"
@@ -128,7 +128,7 @@ client_and_work:
         URL: "https://daxxxxxx.github.io/code/project_3.md"
       image:
         x: "img/works/ts.png"
-        #_2x: "img/works/robo-advisor@2x.jpg"
+        _2x: "img/works/ts.png"
       is_even: true
 
 # testimonial
