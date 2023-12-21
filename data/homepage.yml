@@ -125,7 +125,7 @@ client_and_work:
       description: "To standardize target setting across varied management levels in online education by forecasting conversion rates, enabling managers to better understand conversion cycles and identify tutors with below-target performance."
       button:
         btnText: "code demo"
-        URL: "https://daxxxxxx.github.io/code/"
+        URL: "https://daxxxxxx.github.io/code/project_3.md"
       image:
         x: "img/works/robo-advisor.jpg"
         _2x: "img/works/robo-advisor@2x.jpg"
