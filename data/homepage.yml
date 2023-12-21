@@ -115,7 +115,7 @@ client_and_work:
       description: "Perform propensity score matching to isolate the impact of marketing live streams on conversion rates, revealing a 1% average treatment effect and securing its role as a pivotal conversion factor for business."
       button:
         btnText: "code demo"
-        URL: "https://daxxxxxx.github.io/code/
+        URL: "https://daxxxxxx.github.io/code/“
       image:
         x: "img/works/swissfintech.jpg"
         _2x: "img/works/swissfintech@2x.jpg"
@@ -125,7 +125,7 @@ client_and_work:
       description: "To standardize target setting across varied management levels in online education by forecasting conversion rates, enabling managers to better understand conversion cycles and identify tutors with below-target performance."
       button:
         btnText: "code demo"
-        URL: "https://daxxxxxx.github.io/code/  
+        URL: "https://daxxxxxx.github.io/code/”  
       image:
         x: "img/works/robo-advisor.jpg"
         _2x: "img/works/robo-advisor@2x.jpg"
