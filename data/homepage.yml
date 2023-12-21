@@ -10,11 +10,11 @@ showcase:
   description: "Former Senior Data Scientist in education technology, now an entrepreneur dedicated to personalized education solutions, committed to empowering everyone in embracing the data dividend era. Also, a Data Science influencer on Little Red Book. "
   image:
     alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/p3.jpg"
-    _2x: "img/showcase/p3.jpg"
+    x: "img/who-am-i/p1.jpg"
+    _2x: "img/who-am-i/p1.jpg"
   imageMobile:
     alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/p3.jpg"
+    x: "img/who-am-i/p1.jpg"
 
   button:
     icon: "icon-mail-fill"
@@ -47,8 +47,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/shiyu-song-aa7609a6/"
   image:
-    x: "img/who-am-i/p1.jpg"
-    _2x: "img/who-am-i/p1.jpg"
+    x: "img/showcase/p3.jpg"
+    _2x: "img/showcase/p3.jpg"
 
 # education
 education:
