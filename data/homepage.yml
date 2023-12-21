@@ -139,24 +139,19 @@ testimonial:
     - name: "Shichao Han"
       position: "Tencent Wechat, Research Data Scientist"
       content: "Shiyu's career ambition goes well beyond being a data scientist working in the tech industry. He has demonstrated a great interest in combining data science with artificial intelligence and smart decision-making, thus seeking continuous learning and improvement. Shiyu has shown his capability to think critically about data, apply advanced analytical techniques, and communicate findings effectively. These skills will make him an excellent candidate to pursue further education in data science and beyond."
-      image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+      #image:
+        #x: "img/testimonials/daniel-jordan.jpg"
+        #_2x: "img/testimonials/daniel-jordan@2x.jpg"
 
     - name: "Rachael Rong"
-      position: "Amazon, Senior Data scientist"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
-      image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+      position: "Amazon, Senior Data Scientist"
+      content: "Shiyu is able to communicate statistics with precision and creativity. His ability to distill complex concepts into understandable terms has not only aided students but has also demonstrated his exceptional communication skills, which is a vital trait for any data scientist to present data results to stakeholders."
+      
 
-    - name: "Antonio Willis"
-      position: "Cyberse, CEO"
-      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
-      image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
-
+    - name: "Runhuan Feng"
+      position: "Tsinghua University Department of Finance, Chair Professor"
+      content: "I am very impressed by Shiyu’s motivation for life-long learning, as he is ambitious to change the world with his expertise and skills. For eight years, I saw Shiyu grow from a student in actuarial science to an ambitious data scientist in a leading educational tech company. I witnessed every single one of his milestones, and with his passion for data science and dedication to achieving his goal, Shiyu can accomplish anything he wants in life."
+     
 # # contact
 # contact:
   enable: true
